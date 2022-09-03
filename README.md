@@ -1,5 +1,5 @@
 
-# Title of the Project: A simple web application form which saves employee data to the Json Database
+# Title of the Project: A simple web application form which saves employee data to the Json Power Database
 ## Prerequisties:
 To install Netbeans editor follow this link
 1.  [Linux installation](https://itsfoss.com/install-netbeans-ubuntu/#:~:text=Installing%20Netbeans%20IDE%20on%20Ubuntu,No%20need%20to%20open%20terminal.)
